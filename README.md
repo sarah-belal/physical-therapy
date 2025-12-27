@@ -1,3 +1,2 @@
-# Harvard Hackathon 
-# physical-therapy 
+# Harvard Hackathon: Physical therapy API 
 Project for physical therapists to create custom exercise plans including tutorials for clients to learn and restore movement at home. 
